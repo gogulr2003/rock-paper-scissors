@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This project is built using HTML,CSS,JAVASCRIPT.User can select their choice(Rock,paper,scissors),Computer randomely chooses it's choice.rest is all the rules of rock,paper and scissors game.results displayed.
